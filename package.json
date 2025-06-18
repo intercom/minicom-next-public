@@ -1,5 +1,5 @@
 {
-  "name": "minicom-support-client",
+  "name": "@intercom/minicom-support-client",
   "version": "1.0",
   "private": true,
   "engines": {
